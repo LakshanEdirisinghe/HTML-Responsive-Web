@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+.box {
+
+	background-color: #E55050;
+	width: 400px;
+	height: 300px;
+	
+}
+
+.box2 {
+
+	background-color: #C95792;
+	width: 400px;
+	height: 300px;
+	position: relative;
+	left: 512px;
+	bottom: 300px;
+}
+
+.box3 {
+
+	background-color: #F8B55F;
+	width: 400px;
+	height: 300px;
+	position: relative;
+	left: 1038px;
+	bottom: 600px;
+}
+
+
+
+@media (max-width: 960px){
+
+	.box2 {
+	transition: 0.3s;
+	position: relative;
+	top: 11px;
+	left: 0px;
+	
+	}
+
+	.box3 {
+
+	position: relative;
+	transition: 0.3s;
+	top: 22px;
+	left: 0px;
+}
+	
+}
+
+
+
+
