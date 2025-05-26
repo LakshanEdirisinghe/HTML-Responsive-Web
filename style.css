@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
 
-body {
-
-	
-	margin-left: 3%;
-
-}
 .box {
 
 	background-color: #E55050;
@@ -14,13 +8,14 @@ body {
 	
 }
 
+
 .box2 {
 
 	background-color: #7F55B1;
 	width: 400px;
 	height: 300px;
 	position: relative;
-	left: 512px;
+	left: 476px;
 	bottom: 300px;
 }
 
@@ -30,7 +25,7 @@ body {
 	width: 400px;
 	height: 300px;
 	position: relative;
-	left: 1038px;
+	left: 939px;
 	bottom: 600px;
 }
 
